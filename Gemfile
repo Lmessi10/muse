@@ -47,5 +47,6 @@ group :development do
   gem 'simple_form', '~> 3.2'
   gem 'haml', '~> 4.0', '>= 4.0.7'
   gem 'paperclip', '~> 4.3', '>= 4.3.2'
+  gem 'acts_as_votable', '~> 0.10.0'
 end
 
